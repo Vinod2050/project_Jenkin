@@ -15,5 +15,9 @@ public class UserDetails {
         System.out.println("City   : " + city);
         System.out.println("Email  : " + email);
         System.out.println("Address: "+ Address);
+
+       // Calling Employee class method
+        Employee emp = new Employee();
+        emp.printEmployee();
     }
 }
