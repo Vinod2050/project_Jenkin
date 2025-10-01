@@ -13,5 +13,6 @@ public class UserDetails {
         System.out.println("Age    : " + age);
         System.out.println("City   : " + city);
         System.out.println("Email  : " + email);
+        System.out.println("Address: "+ Pune);
     }
 }
