@@ -5,6 +5,7 @@ public class UserDetails {
         String name = "Vinod Mache";
         int age = 28;
         String city = "Pune";
+        String Address ="Pune Maharashtra 411035";
         String email = "vinod.mache@outlook.com";
 
         // Printing user details
@@ -13,6 +14,6 @@ public class UserDetails {
         System.out.println("Age    : " + age);
         System.out.println("City   : " + city);
         System.out.println("Email  : " + email);
-        System.out.println("Address: "+ Pune);
+        System.out.println("Address: "+ Address);
     }
 }
